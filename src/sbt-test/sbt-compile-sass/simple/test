@@ -1,1 +1,3 @@
-> print Assets/compileSass
+> assets
+$ exists target/web/public/main/stylesheets/test.css
+> check
