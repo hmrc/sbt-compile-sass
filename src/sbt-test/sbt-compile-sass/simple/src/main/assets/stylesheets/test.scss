@@ -1,0 +1,17 @@
+@import "lib/govuk-frontend/dist/govuk/base";
+
+@import "partial";
+
+body {
+  a {
+    color: red;
+  }
+
+  div {
+    font-weight: bold;
+  }
+}
+
+p {
+  @include govuk-font-size($size: 19);
+}
