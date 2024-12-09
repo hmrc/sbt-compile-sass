@@ -1,7 +1,7 @@
 
 # sbt-compile-sass
 
-This is a placeholder README.md for a new repository
+This was a proof of concept, it is being developed further at https://github.com/hmrc/sbt-sass-compiler
 
 ### License
 
